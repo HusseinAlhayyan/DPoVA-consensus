@@ -1,5 +1,5 @@
 # DPoVA-consensus
-# coinnum: Delegated Proof of Verified Authority (DPoVA)
+# Delegated Proof of Verified Authority (DPoVA)
 
 [![License: MIT/Apache-2.0](https://img.shields.io/badge/License-MIT%2FApache--2.0-blue.svg)]()
 [![Language: Rust](https://img.shields.io/badge/Language-Rust-orange.svg)]()
